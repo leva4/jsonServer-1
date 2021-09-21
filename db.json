@@ -1,5 +1,7 @@
 {
-    "home": {
-        "text": "hello world!"
+    "main": {
+        "home": {
+            "text": "hello world!"
+        }
     }
 }
